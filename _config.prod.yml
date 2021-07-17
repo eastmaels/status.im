@@ -31,8 +31,8 @@ permalink_defaults:
   lang: en
 i18n_dir: :lang
 
-url: https://status.im/
-root: /
+url: https://eastmaels.github.io/status.im/
+root: /status.im/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code
@@ -48,7 +48,8 @@ highlight:
 theme: navy
 deploy:
   type: git
-  repo: git@github.com:status-im/status.im.git
+  #repo: git@github.com:status-im/status.im.git
+  repo: https://github.com/eastmaels/status.im
   branch: gh-pages
 
 disqus_shortname: hexojs
@@ -75,6 +76,6 @@ alias:
   feature-request/index.html: https://docs.google.com/forms/d/1AD9HBVLUfztKx3erB5LBBYorbYgrVCRd2OnEtICMDqc/
   roadmap/index.html: https://trello.com/b/DkxQd1ww/status-app-roadmap
   stickers/index.html: https://forms.gle/2czVVRjPtWmTMJSq7
-  contribute/open_positions.html: https://status.im/our_team/jobs.html
-  our_team/open_positions.html: https://status.im/our_team/jobs.html
-  terms-of-service/index.html: https://status.im/terms-of-use/index.html
+  contribute/open_positions.html: https://eastmaels.github.io/status.im/our_team/jobs.html
+  our_team/open_positions.html: https://eastmaels.github.io/status.im/our_team/jobs.html
+  terms-of-service/index.html: https://eastmaels.github.io/status.im/terms-of-use/index.html
