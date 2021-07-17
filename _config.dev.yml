@@ -31,8 +31,10 @@ permalink_defaults:
   lang: en
 i18n_dir: :lang
 
-url: https://dev.status.im/
-root: /
+#url: https://dev.status.im/
+#root: /
+url: https://eastmaels.github.io/status.im/
+root: /status.im/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code
@@ -48,7 +50,8 @@ highlight:
 theme: navy
 deploy:
   type: git
-  repo: git@github.com:status-im/status.im.git
+  #repo: git@github.com:status-im/status.im.git
+  repo: git@github.com:eastmaels/status.im.git
   branch: gh-pages
 
 disqus_shortname: hexojs
@@ -57,7 +60,7 @@ github: status-im
 
 graphviz:
   enable: true
-  
+
 mermaid:
   enable: true
   version: "7.1.2"
