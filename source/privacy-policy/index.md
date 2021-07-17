@@ -187,7 +187,10 @@ However, Status may engage (sub) processors that we trust to carry out the proce
 
 **As Data Processor**: Status may also use sub-processors to assist us in our services. Sub-processors receive personal data from us which they process by our order, in accordance with your instruction, as laid out in the contractual agreement between you and Status. Our use of sub-processors is under contractual agreement and in accordance with privacy legislation.
 
-We use the following external services and tools: Infura, Inc. (to collect and send your Ethereum data), Etherscan (to allow users to search the Ethereum blockchain for transactions, addresses, tokens, prices, and other activities), CryptoCompare (to obtain current fiat value), and services others use to host ERC721 content (including collectibles such as Cryptokitties). 
+We use the following external services and tools: Infura, Inc. (to collect and send your Ethereum data), Etherscan (to allow users to search the Ethereum blockchain for transactions, addresses, tokens, prices, and other activities), CryptoCompare (to obtain current fiat value), and services others use to host ERC721 content (including collectibles such as Cryptokitties), and Pinpoint Software (to track recruiting and work applications).
+
+A special note about our recruiting software: If you apply to work as a contributor with Status through the Pinpoint platform, this recruiting software will act as a data processor on behalf of Status, as the data controller for all data entered into the Pinpoint platform. Pinpoint collects and analyzes data and other information regarding use and performance, and Pinpoint will use such information and data to improve and enhance their services. Pinpoint may also disclose such data solely in aggregate or other de-identified form in connection with its business.
+
 
 <img src="/privacy-policy/5.png" alt="5" style="margin-top:60px;width:72px;"/>
 

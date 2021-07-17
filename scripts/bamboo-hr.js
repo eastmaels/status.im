@@ -22,6 +22,7 @@ const DEFAULT_FIELDS = [
 
 const SKIP_EMAILS = [
   null,
+  'john@status.im',
   'rumpf_a@web.de',
   'dev@holbrook.no',
   'yevheniia@status.im',
