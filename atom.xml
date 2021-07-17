@@ -3,11 +3,11 @@
   <title>Status</title>
   
   <subtitle>A new kind of tool for a new kind of internet</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/status.im/atom.xml" rel="self"/>
   
-  <link href="https://dev.status.im/"/>
+  <link href="https://eastmaels.github.io/status.im/"/>
   <updated>2021-07-11T04:23:58.503Z</updated>
-  <id>https://dev.status.im/</id>
+  <id>https://eastmaels.github.io/status.im/</id>
   
   <author>
     <name>Status</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Nimbus</title>
-    <link href="https://dev.status.im/news/2018/10/25/nimbus/"/>
-    <id>https://dev.status.im/news/2018/10/25/nimbus/</id>
+    <link href="https://eastmaels.github.io/status.im/news/2018/10/25/nimbus/"/>
+    <id>https://eastmaels.github.io/status.im/news/2018/10/25/nimbus/</id>
     <published>2018-10-25T00:00:00.000Z</published>
     <updated>2021-07-11T04:23:58.503Z</updated>
     
